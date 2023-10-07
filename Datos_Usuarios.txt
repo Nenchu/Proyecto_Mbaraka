@@ -1,0 +1,5 @@
+USUARIO - Administrador
+nenchu_22@hotmail.com   clave: nen123
+
+USUARIO - Cliente
+graGomez@hotmail.com    clave:123456
